@@ -14,7 +14,7 @@ and board style of learning imparted to the students.
 3. Blob Storage
 
 # Deployment details
- ![deployment](https://user-images.githubusercontent.com/92580214/165099567-94bcfa98-48b6-4feb-9bae-1c2e4ece8195.png)
+ ![deploymentdetails](https://user-images.githubusercontent.com/92580214/165120319-21b3af8e-1a5b-40b2-a5e4-670f3cb85d6e.png)
 
 # Web app details
 
